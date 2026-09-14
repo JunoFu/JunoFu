@@ -1,16 +1,45 @@
-## Hi there 👋
+# Hi, I'm Juno 👋
 
-<!--
-**JunoFu/JunoFu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software Engineering student at Central South University.
 
-Here are some ideas to get you started:
+I enjoy turning ideas into working products, especially at the intersection of **AI, software, and creative interaction**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Selected Projects
+
+### 🎮 Gesture-Controlled Shooter
+A JavaFX shooting game enhanced with real-time hand gesture interaction using computer vision.
+
+**Tech:** Python · MediaPipe · OpenCV · Socket · Java · JavaFX
+
+> Currently in development.
+
+---
+
+### 📊 AI Student Management & Analytics System
+A desktop student information and grade analytics system with AI-powered academic analysis.
+
+**Tech:** C++ · Qt · MySQL · DeepSeek API
+
+---
+
+### 🎄 Interactive Christmas Website
+My first AI-assisted web project, created while learning frontend development.
+
+**Tech:** HTML · CSS · JavaScript
+
+---
+
+## 🌱 Currently Exploring
+
+- Computer Vision
+- AI-powered products
+- Human-computer interaction
+- Product design
+
+## 📫 About Me
+
+I like asking one question:
+
+**Can this idea actually be built?**
+
+And then trying to build it.
